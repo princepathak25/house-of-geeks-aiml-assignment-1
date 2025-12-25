@@ -26,7 +26,7 @@ The notebook demonstrates:
 
 | File | Description |
 |----|----|
-| `Assignment_1.ipynb` | Main Jupyter notebook containing the complete assignment |
+| `Assignment_1(Prince_Pathak).ipynb` | Main Google Colab notebook containing the complete assignment |
 | `README.md` | Project overview and documentation |
 
 ---
