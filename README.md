@@ -14,22 +14,51 @@ The assignment is implemented using **Python** and executed in **Google Colab**.
 - Language: Python  
 - Type: Beginner-level academic assignment  
 
-The notebook demonstrates:
-- Data handling and preprocessing
-- Use of core Python libraries
-- Step-by-step implementation with explanations
-- Clean and readable code structure
+The notebook demonstrates a structured approach to solving an AI/ML problem using Python, with clear explanations and readable code.
 
 ---
 
 ## 📂 Repository Contents
 
-| File | Description |
-|----|----|
-| `Assignment_1(Prince_Pathak).ipynb` | Main Google Colab notebook containing the complete assignment |
-| `README.md` | Project overview and documentation |
+- `Assignment_1(Prince_Pathak).ipynb` – Main Jupyter notebook containing the complete assignment  
+- `README.md` – Project overview and documentation
+  
+---
+
+## 🚀 How to Run
+
+Open `Assignment_1.ipynb` in:
+
+- **Google Colab (recommended)**
+- **Jupyter Notebook / VS Code**
 
 ---
+
+## 🧠 Learning Outcome
+
+- Understanding the basic workflow of an AI/ML project  
+- Working with notebooks in a structured manner  
+- Using GitHub for academic submissions  
+- Writing clean and reproducible code  
+
+---
+
+## 🏫 Organization
+
+**House of Geeks**  
+AI/ML Wing  
+**Indian Institute of Information Technology, Ranchi**
+
+---
+
+## 👤 Author
+
+**Prince Pathak**  
+GitHub: https://github.com/princepathak25  
+
+---
+
+> 📌 This repository is created for academic learning and submission purposes.
 
 ## 🚀 How to Run
 
